@@ -1,0 +1,26 @@
+.char {
+    height: 231px;
+    width: 231px;
+}
+
+.chars {
+    height: 241px;
+    width: 410px;
+}
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 45%;
+}
+
+div.gallery img {
+  width: 90%;
+  height: 90%;
+}
+
+#whatever{
+    background-color: aqua;
+    
+}
